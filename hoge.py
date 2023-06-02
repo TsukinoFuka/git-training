@@ -1,5 +1,1 @@
 printf('Hello, Woeld')
-printf('Hello, Woeld')
-printf('Hello, Woeld')
-printf('Hello, Woeld')
-printf('Hello, Woeld')
